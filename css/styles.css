@@ -379,6 +379,7 @@ img {
   align-items: center;
   margin: auto;
   padding-top: 16px;
+  gap: 10px;
 }
 
 .social-icon:hover svg,
@@ -400,7 +401,6 @@ img {
   height: 44px;
   border-radius: 50%;
   border-color: #2196f3;
-  gap: 10px;
   fill: var(--color-fill--social);
   justify-content: center;
   align-items: center;
